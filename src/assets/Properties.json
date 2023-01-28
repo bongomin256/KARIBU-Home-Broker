@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "listingType": "Double Rooms",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "address": "Lower churchil Dr, Senior Quarters",
+    "category": "Rooms",
+    "division": "Pece Division",
+    "leaseType": "Rent",
+    "amount": 650000,
+    "images": "karibu"
+  },
+  {
+    "id": 2,
+    "listingType": "Double Rooms",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "address": "Lower churchil Dr, Senior Quarters",
+    "category": "Rooms",
+    "division": "Pece",
+    "leaseType": "Rent",
+    "amount": 650000,
+    "images": "../../../assets/images/karibu.jpeg"
+  },
+  {
+    "id": 3,
+    "listingType": "Double Rooms",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "address": "Lower churchil Dr, Senior Quarters",
+    "category": "Rooms",
+    "division": "Pece",
+    "leaseType": "Rent",
+    "amount": 650000,
+    "images": "../images/karibu.jpeg"
+  },
+  {
+    "id": 4,
+    "listingType": "Double Rooms",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "address": "Lower churchil Dr, Senior Quarters",
+    "category": "Rooms",
+    "division": "Pece",
+    "leaseType": "Rent",
+    "amount": 650000,
+    "images": "../images/karibu.jpeg"
+  }
+]
