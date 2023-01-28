@@ -1,0 +1,82 @@
+.card-section {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  width: 20rem;
+  height: 20rem;
+  /* background-color: lightgray; */
+  /* margin-left: 300px; */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(140, 140, 140, 0.549);
+}
+.property-image img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.image-content {
+  /* padding: 0rem 1.2rem 1.2rem 1.2rem; */
+  padding: 0 1.2rem 1.2rem 1.2rem;
+}
+
+.image-content h2 {
+  /* font-size: 1.25rem; */
+  font-size: 1rem;
+  margin-bottom: 0px;
+}
+.image-content .price-type {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-content .price-type .category {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  /* justify-content: center; */
+}
+hr {
+  margin-bottom: -8px;
+}
+.poster-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.poster-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.poster-section .poster-section-image {
+  width: 30px;
+  height: 30px;
+}
+.poster-section .poster-section-image img {
+  width: 100%;
+  border-radius: 50%;
+}
+.share-icons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.share,
+.wishlist {
+  background: lightslategrey;
+  padding: 0.35rem;
+}
+
+/* .wishlist {
+  background: lightslategrey;
+  padding: 0.5rem;
+} */
+
+.icon {
+  font-size: 1rem;
+  color: white;
+}
